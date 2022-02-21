@@ -1,0 +1,9 @@
+Wrote new keypair to keypair.json
+==========================================================================
+pubkey: 9pp1EZaAg58g2Thge2UR3Jr2M8QKVQxvyCJPcejQ93bp
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+charge census duty index rib bullet win version delay science load chronic
+
+
+Program Id: GtTKXxa9Mhrjs9fmX5c7QGHqcQZxYCb6gKRKitRx6ita
